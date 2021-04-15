@@ -5,3 +5,5 @@ Pri čoraz zvyšujúcom sa množstve dát v našich systémoch je kritické, a
 Cieľ práce:  Autor práce sa musí detailne zamerať na jednotlivé aspekty ako je serverová architektúra, aplikačná konfigurácia atď. Očakávaný výstup z uvedenej práce je detailný opis toho, ktorá z uvedených databázových platforiem je vhodná pre aký typ a rozsah dát za konkrétnych podmienok. Uvedené tvrdenie je potrebné podložiť nie len teoreticky ale aj výstupom z experimentálneho testovania deklarovaných tvrdení.
 Charakter práce: prehľadový - minimálny počet zdrojov (> 40), kritické zhodnotenie v diskusii, resp. v samostatnej kapitole;
 Požiadavky na vedomosti a zručnosti študenta: skúsenosti s NoSQL  databázovými platformami, schopnosť riešenia komplexného problému.
+
+Rok obhajoby: 2022
